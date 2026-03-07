@@ -15,8 +15,8 @@ const assetRoutes = require("./router/assetRoutes");
 const productRoutes = require("./router/productRoute");
 const locationRoutes = require("./router/locationRoute");
 const maintenanceTaskRoutes = require("./router/maintenanceRoute");
-const qrCodeGeneratorRoutes=require("./router/QrCodeRoute")
-
+const qrCodeGeneratorRoutes=require("./router/QrCodeRoute");
+const vendorRoutes=require("./router/vendorRoutes");
 // Load environment variables
 
 const PORT = process.env.PORT || 5000;
@@ -44,6 +44,7 @@ app.use("/qrcode", qrCodeGeneratorRoutes);
 app.use("/product", productRoutes);
 app.use("/locations", locationRoutes);
 app.use("/maintenance-tasks", maintenanceTaskRoutes);
+app.use("/vendor", vendorRoutes);
 
 
 app.get("/", (req, res) => {

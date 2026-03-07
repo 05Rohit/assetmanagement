@@ -16,57 +16,6 @@ const dbName = "assetManagement";
 const notificationCollectionName = "notifications";
 const jwtSecretKey = "MyCompany";
 
-
-
-// exports.createUser = catchAsync(async (req, res, next) => {
-//   const {
-//     name,
-//     employeeId,
-//     email,
-//     password,
-//     phoneNumber,
-//     userType,
-//     department,
-//     designation,
-//     status,
-//     project,      // optional
-//     location,     // optional
-//     sublocation,  // optional
-//   } = req.body;
-
-//     // console.log("43",req.body)
-
-//   const userExists = await userModel.findOne({ email: email });
-
-//   if (userExists) {
-//     return res.status(400).json({ error: "User already exists" });
-//   }
-//   const userNewData = new userModel({
-//     name,
-//     employeeId,
-//     email,
-//     password,
-//     phoneNumber,
-//     userType,
-//     department,
-//     designation,
-//     status,
-//     project,      // optional
-//     location,     // optional
-//     sublocation,  // optional
-//   });
-
-//   console.log("43",userNewData)
-
-//   await userNewData.save();
-//   res.status(201).json("User Is Created");
-// });
-
-
-
-
-
-
 exports.CreateUser = catchAsync(async (req, res, next) => {
   const {
     name,
@@ -144,8 +93,6 @@ exports.CreateUser = catchAsync(async (req, res, next) => {
 });
 
 
-
-
 exports.loginUser = catchAsync(async (req, res, next) => {
   const start = Date.now();
   const { employeeIdOREmail, password } = req.body || {};
@@ -202,6 +149,14 @@ exports.loginUser = catchAsync(async (req, res, next) => {
       email: user.email,
     },
     token,
+  });
+});
+
+exports.getUserList= catchAsync(async (req, res, next) => {
+  const users = await userModel.find().select('-password').lean();
+  res.status(200).json({
+    status: "success",
+    data: users,
   });
 });
 

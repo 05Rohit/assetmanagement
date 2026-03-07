@@ -700,3 +700,133 @@
 {"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-02-28T04:12:28.601Z"}
 {"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-02-28T04:12:31.529Z"}
 {"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-02-28T04:21:36.420Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-01T14:36:59.600Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-01T15:16:33.558Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-01T15:19:03.368Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-01T15:21:08.034Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-01T15:21:57.040Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:21:51.688Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:23:15.961Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:26:03.871Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:28:20.962Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:29:48.981Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:29:58.961Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:30:15.948Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:30:19.109Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:30:30.974Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:39:53.551Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:40:20.143Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:41:15.990Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:41:19.305Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:42:13.952Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:48:47.843Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:49:11.876Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:49:19.899Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:49:43.990Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:50:30.381Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:50:31.954Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:50:56.987Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:51:19.209Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T14:51:24.580Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T16:36:11.026Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-03T17:06:46.846Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:10:40.297Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:16:59.676Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:20:29.724Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:24:20.146Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:32:39.277Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:35:18.468Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:39:35.520Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:42:49.713Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T02:43:55.643Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T14:06:43.153Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T14:09:51.175Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T14:54:19.921Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T15:02:33.774Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T15:03:32.497Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-05T15:03:41.558Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:36:21.140Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:36:59.435Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:40:11.645Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:40:17.645Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:40:32.075Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:40:34.307Z"}
+{"_message":"Vendor validation failed","errors":{"city":{"kind":"required","message":"Path `city` is required.","name":"ValidatorError","path":"city","properties":{"message":"Path `city` is required.","path":"city","type":"required"}},"country":{"kind":"required","message":"Path `country` is required.","name":"ValidatorError","path":"country","properties":{"message":"Path `country` is required.","path":"country","type":"required"}},"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}},"doorNumber":{"kind":"required","message":"Path `doorNumber` is required.","name":"ValidatorError","path":"doorNumber","properties":{"message":"Path `doorNumber` is required.","path":"doorNumber","type":"required"}},"email":{"kind":"required","message":"Path `email` is required.","name":"ValidatorError","path":"email","properties":{"message":"Path `email` is required.","path":"email","type":"required"}},"firstName":{"kind":"required","message":"Path `firstName` is required.","name":"ValidatorError","path":"firstName","properties":{"message":"Path `firstName` is required.","path":"firstName","type":"required"}},"phoneNo":{"kind":"required","message":"Path `phoneNo` is required.","name":"ValidatorError","path":"phoneNo","properties":{"message":"Path `phoneNo` is required.","path":"phoneNo","type":"required"}},"state":{"kind":"required","message":"Path `state` is required.","name":"ValidatorError","path":"state","properties":{"message":"Path `state` is required.","path":"state","type":"required"}},"street":{"kind":"required","message":"Path `street` is required.","name":"ValidatorError","path":"street","properties":{"message":"Path `street` is required.","path":"street","type":"required"}},"zipCode":{"kind":"required","message":"Path `zipCode` is required.","name":"ValidatorError","path":"zipCode","properties":{"message":"Path `zipCode` is required.","path":"zipCode","type":"required"}}},"level":"error","message":"Vendor validation failed: street: Path `street` is required., doorNumber: Path `doorNumber` is required., currency: Path `currency` is required., city: Path `city` is required., zipCode: Path `zipCode` is required., state: Path `state` is required., country: Path `country` is required., phoneNo: Path `phoneNo` is required., email: Path `email` is required., firstName: Path `firstName` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T02:43:39.049Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:45:38.502Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":400,"timestamp":"2026-03-06T02:45:38.511Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:48:34.172Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:49:06.183Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":400,"timestamp":"2026-03-06T02:49:15.983Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:51:34.563Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:57:43.297Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T02:58:46.863Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T02:58:53.596Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T03:00:20.233Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T03:00:31.317Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T03:01:27.024Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T03:01:37.459Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T03:04:48.482Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T03:04:57.524Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T03:05:19.952Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T03:12:11.036Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T03:12:22.520Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T03:15:51.519Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T03:16:43.378Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T03:17:06.732Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T03:17:11.904Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T03:19:41.324Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T13:57:15.408Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T13:58:24.979Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:00:13.777Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:01:11.787Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:01:26.051Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:01:40.062Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:01:49.866Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:02:03.135Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:02:09.065Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:03:27.766Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:04:18.589Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:04:34.261Z"}
+{"level":"error","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T14:05:07.369Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:05:07.583Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:05:19.851Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:05:19.902Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:05:34.627Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-06T14:05:34.640Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T14:05:47.365Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T14:05:53.472Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-06T14:06:01.703Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:38:57.961Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:38:57.984Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:39:04.561Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:39:04.565Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:40:08.081Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:40:10.075Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:40:32.730Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:40:32.733Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:41:33.096Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:41:38.150Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:41:38.154Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:42:50.340Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:43:13.677Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:43:32.511Z"}
+{"level":"error","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-07T04:44:05.245Z"}
+{"level":"error","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-07T04:44:20.930Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:44:36.862Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:45:07.154Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:45:28.296Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:45:34.958Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:45:39.451Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:45:44.859Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:46:21.316Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:46:39.435Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:46:51.667Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T04:48:36.904Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T05:17:44.332Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T05:22:29.219Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T05:26:00.324Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T05:31:07.915Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T05:34:30.106Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-07T05:35:40.950Z"}
+{"_message":"Vendor validation failed","errors":{"currency":{"kind":"required","message":"Path `currency` is required.","name":"ValidatorError","path":"currency","properties":{"message":"Path `currency` is required.","path":"currency","type":"required"}}},"level":"error","message":"Vendor validation failed: currency: Path `currency` is required.","name":"ValidationError","service":"user-service","status":"error","statusCode":500,"timestamp":"2026-03-07T05:35:47.717Z"}
+{"isOperational":true,"level":"error","service":"user-service","status":"fail","statusCode":404,"timestamp":"2026-03-07T05:37:24.549Z"}
